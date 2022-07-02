@@ -4,39 +4,5 @@
 		"Qual Melhor Dev?",
 		"Qual Melhor Dev?",
 		"Qual Melhor Dev?"
-	],
-	"users": {
-		"neguin": {
-			"answers": [
-				"hdhdj",
-				"dhhd",
-				"gshd",
-				"hdhdh"
-			],
-			"ip": "::1"
-		},
-		"ashdh": {
-			"answers": [
-				"r",
-				"t",
-				"t",
-				"t"
-			],
-			"ip": "::1"
-		},
-		"hdhd": {
-			"answers": [
-				"f",
-				"t",
-				"t",
-				"t"
-			],
-			"ip": "::1"
-		}
-	},
-	"ips": [
-		"::15",
-		"::t1",
-		"::1"
 	]
 }
