@@ -1,0 +1,38 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>Formulário</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+
+<body>
+	<header>
+		<h1 class="title">Form WSApp - Developers</h1>
+		<p class="description">Perguntas sobre o nosso grupinho</p>
+	<main>
+		<h3 class="msg"></h3>
+		
+		<div id="form">
+			<p class="nick">Seu Nick:</p>
+			<input type="text" class="input-nick" name="nick" placeholder="Resposta" required>
+			<br/>
+			<br/>
+			
+			<div class="questions">
+				<p class="question-title">Quem e o Dev mais Gostoso?</p>
+				<input type="text" class="question-input" placeholder="Resposta">
+				<p class="question-title">Quem e o Dev mais Gay?</p>
+				<input type="text" class="question-input" placeholder="Resposta">
+				<p class="question-title">Quem e o Dev mais inteligente?</p>
+				<input type="text" class="question-input" placeholder="Resposta">
+				<p class="question-title">Quem e o Dev que coda melhor(codigo legivel, funcional etc..)?</p>
+				<input type="text" class="question-input" placeholder="Resposta">
+			</div>
+			
+			<button type="button" class="submit" onclick="Submit()">Enviar</button>
+		</div>
+	</main>
+	<script src="main.js" type="text/javascript" charset="utf-8"></script>
+</body>
+</html>
